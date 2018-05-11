@@ -1,0 +1,11 @@
+C:\Users\jingjingc\source\repos\WebApplicationmvcef\WebApplicationcore\bin\Debug\netcoreapp2.0\WebApplicationcore.deps.json
+C:\Users\jingjingc\source\repos\WebApplicationmvcef\WebApplicationcore\bin\Debug\netcoreapp2.0\WebApplicationcore.runtimeconfig.json
+C:\Users\jingjingc\source\repos\WebApplicationmvcef\WebApplicationcore\bin\Debug\netcoreapp2.0\WebApplicationcore.runtimeconfig.dev.json
+C:\Users\jingjingc\source\repos\WebApplicationmvcef\WebApplicationcore\bin\Debug\netcoreapp2.0\WebApplicationcore.dll
+C:\Users\jingjingc\source\repos\WebApplicationmvcef\WebApplicationcore\bin\Debug\netcoreapp2.0\WebApplicationcore.pdb
+C:\Users\jingjingc\source\repos\WebApplicationmvcef\WebApplicationcore\obj\Debug\netcoreapp2.0\WebApplicationcore.csprojResolveAssemblyReference.cache
+C:\Users\jingjingc\source\repos\WebApplicationmvcef\WebApplicationcore\obj\Debug\netcoreapp2.0\WebApplicationcore.csproj.CoreCompileInputs.cache
+C:\Users\jingjingc\source\repos\WebApplicationmvcef\WebApplicationcore\obj\Debug\netcoreapp2.0\WebApplicationcore.AssemblyInfoInputs.cache
+C:\Users\jingjingc\source\repos\WebApplicationmvcef\WebApplicationcore\obj\Debug\netcoreapp2.0\WebApplicationcore.AssemblyInfo.cs
+C:\Users\jingjingc\source\repos\WebApplicationmvcef\WebApplicationcore\obj\Debug\netcoreapp2.0\WebApplicationcore.dll
+C:\Users\jingjingc\source\repos\WebApplicationmvcef\WebApplicationcore\obj\Debug\netcoreapp2.0\WebApplicationcore.pdb
